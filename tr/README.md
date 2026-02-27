@@ -9,8 +9,8 @@ Bu rehber, üniversite hayatınız boyunca yönetmelikler arasında kaybolmaman�
 
 | Konu Başlığı | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| **Burs Koruma Taktikleri** | GANO sınırları, burs kesilme şartları ve risk yönetimi. Ekstaradan burs alma şartları. | [Rehberi Oku](./burs-koruma.md) |
-| **Not Yükseltme Stratejisi** | Hangi dersler (DD/DC/FF) ne zaman tekrar alınmalı? GPA yükseltme formülleri. | [Rehberi Oku](./not-yukseltme.md) |
+| **Bursla İlgili** | GANO sınırları, burs kesilme şartları ve risk yönetimi. Ekstaradan burs alma şartları. | [Rehberi Oku](./burs-koruma.md) |
+| **Not Stratejileri** | Hangi dersler (DD/DC/FF) ne zaman tekrar alınmalı? GPA yükseltme formülleri. | [Rehberi Oku](./not-yukseltme.md) |
 |  **Boş Mezuniyet Yılı Taktiği** | Üstten ders alma şartları ve son seneyi boşaltma taktikleri. | [Rehberi Oku](./hizli-mezuniyet.md) |
 |  **Akademik Takvim Okuma** | Ekle-Sil haftası ve mazeret sınavlarının stratejik önemi. | [Yakında...] |
 
