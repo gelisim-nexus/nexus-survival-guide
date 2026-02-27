@@ -1,4 +1,4 @@
-# 🛡️ Akademik Hayatta Kalma Rehberi
+#  Akademik Hayatta Kalma Rehberi
 
 Bu rehber, üniversite hayatınız boyunca yönetmelikler arasında kaybolmamanız ve akademik sürecinizi en verimli şekilde yönetmeniz için hazırlanmıştır. Bilgi paylaşıldıkça değer kazanır; eklemek istediğiniz taktikler için katkıda bulunabilirsiniz.
 
@@ -9,10 +9,10 @@ Bu rehber, üniversite hayatınız boyunca yönetmelikler arasında kaybolmaman�
 
 | Konu Başlığı | Açıklama | Bağlantı |
 | :--- | :--- | :--- |
-| **Bursla İlgili** | GANO sınırları, burs kesilme şartları ve risk yönetimi. Ekstaradan burs alma şartları. | [Rehberi Oku](./burs-koruma.md) |
-| **Not Stratejileri** | Hangi dersler (DD/DC/FF) ne zaman tekrar alınmalı? GPA yükseltme formülleri. | [Rehberi Oku](./not-yukseltme.md) |
-|  **Boş Mezuniyet Yılı Taktiği** | Üstten ders alma şartları ve son seneyi boşaltma taktikleri. | [Rehberi Oku](./hizli-mezuniyet.md) |
-|  **Akademik Takvim Okuma** | Ekle-Sil haftası ve mazeret sınavlarının stratejik önemi. | [Yakında...] |
+| **Bursla İlgili** | GANO sınırları, burs kesilme şartları ve risk yönetimi. Ekstaradan burs alma şartları. | [Rehberi Oku](./bursla-ilgili.md) |
+| **Not Stratejileri** | Hangi dersler (DD/DC/FF) ne zaman tekrar alınmalı? GPA yükseltme formülleri. | [Rehberi Oku](./notla-ilgili.md) |
+|  **Üstten ders almak** | Üstten ders alma şartları, yazın önceden dersleri alma ve son seneyi boşaltma taktikleri. | [Rehberi Oku](./ders-alma.md) |
+|  **Akademik Takvim Okuma** | Ekle-Sil haftası ve mazeret sınavlarının stratejik önemi. | Yakında... |
 
 ---
 
