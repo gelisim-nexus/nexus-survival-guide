@@ -7,7 +7,7 @@
 
 ## 🚀 İçeriğe Giriş / Accessing Content
 
-Lütfen devam etmek istediğiniz dili seçin. İçerikler klasör yapısı içinde organize edilmiştir:
+Lütfen devam etmek istediğiniz dili seçin. İçerikler klasör yapısı içinde organize edilmiştir.
 *Please select your language to continue. Content is organized within the folder structure:*
 
 <p align="left">
