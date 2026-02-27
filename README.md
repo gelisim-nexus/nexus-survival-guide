@@ -1,6 +1,7 @@
 # 📕 Nexus Survival Guide | Akademik Hayatta Kalma Rehberi
 
 [TR] Üniversite yönetmelikleri, not yükseltme taktikleri ve akademik süreçleri kolaylaştıran stratejik rehberlerin bulunduğu merkezdir.
+
 [EN] The hub for university regulations, grade improvement tactics, and strategic guides designed to simplify academic processes.
 
 ---
@@ -8,6 +9,7 @@
 ## 🚀 İçeriğe Giriş / Accessing Content
 
 Lütfen devam etmek istediğiniz dili seçin. İçerikler klasör yapısı içinde organize edilmiştir.
+
 *Please select your language to continue. Content is organized within the folder structure:*
 
 <p align="left">
